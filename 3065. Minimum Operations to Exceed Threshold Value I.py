@@ -4,4 +4,4 @@ class Solution:
         for i in nums:
             if i<k:
                 c+=1
-        return c
+        return c908. Smallest Range I.
