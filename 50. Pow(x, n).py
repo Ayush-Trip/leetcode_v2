@@ -11,4 +11,4 @@ class Solution:
 
         f = function()
         
-        return float(f) if n >= 0 else 1/f
+        return float(f) if n >= 0 else 1
